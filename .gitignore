@@ -1,0 +1,7 @@
+# Files to Ignore
+
+*.json
+
+# Directories to Ignore
+
+/css
